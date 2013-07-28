@@ -1,0 +1,224 @@
+body{
+        background-image:url('curvybrickwallbg3.jpg');
+        margin-top:3%;
+        font-family: sans-serif;
+    }
+
+body.a{
+        text-align: center;
+      }
+  
+p1,a{
+        color:green;
+	text-decoration:none;
+    
+    }
+
+a:hover{
+        color:#6699cc;
+        font-weight:bold;
+       }
+	
+#c{	
+    border:3px solid gray;
+  }
+  
+#indexmsg{
+			text-align:center;
+			border:3px solid gray;
+		 }
+		 
+#signin{
+			float:left;
+			width:350;
+			margin-left:50px;
+	   }
+	   
+#signup{
+			float:right;
+			margin-right:50px;
+			width:350;
+	   }
+  
+p2{ 
+        color:green;
+  }
+
+#k1{
+        color: black;
+	padding:2px;
+        border: 2px solid gray;
+   }
+
+h1,h2{ 
+        text-align: center;
+        color:maroon;
+     }
+
+img{
+        display:inline;
+        border:3px solid black;
+   }
+  
+#menu{
+		position:fixed;
+		left:5%;
+        background-color:yellow;
+        text-decoration:none;
+        text-align:center;
+        color: black;
+        font-size:15px;
+        width:170px;
+        border:3px solid black;
+        padding:4px;
+        padding-top:9px;
+        padding-bottom:9px;
+        float:left;
+        /*margin-left:55px;
+        margin-bottom:30px;*/
+     }
+	 
+#heading{
+			/*position:fixed;
+			float:right;*/
+		}
+#heading1{
+			/*position:fixed;*/
+			background-color:yellow;
+		}
+
+#t{
+        background-color:white;
+        text-align:center;
+        /*float:right;
+        margin-right:20px;*/
+		margin-left:30%;
+  }
+
+
+#z{
+		color:white;
+        background-color:black;
+  }
+  
+#z a{
+		color:white;
+}
+
+#f{
+        width:10px;
+  }
+
+#m{
+        margin-left:17px;
+  }
+
+#radio{
+        border:2px solid black;
+        width:240px;
+        /*margin-left:25px;*/
+		position:fixed;
+		bottom:15%;
+		left:5%;
+		/*float:left;*/
+      }
+	  
+#radio_submit{
+				text-align:center;
+			 }
+
+#tbl{
+        background-color:white;
+        text-align:center;
+        margin-right:20px;
+    }
+
+#tb2{
+		background-color:white;
+        text-align:center;
+        /*margin-right:50px;
+		margin-left:278px;
+		float:right;
+		margin-left:350px;*/
+		/*float:right;*/
+		/*margin-right:5.45%;*/
+		margin-left:30%;
+		
+    }
+
+#tb3{
+		background-color:blue;
+        text-align:center;
+        /*margin-right:500px;
+		margin-left:278px;
+		float:right;
+		position:fixed;
+		margin-left:350px;*/
+		/*position:fixed;*/
+		/*float:right;*/
+		/*margin-right:5.45%;*/
+		margin-left:30%;
+		
+    }
+	
+#tb23{
+        /*margin-right:500px;
+		margin-left:278px;
+		float:right;*/
+    }
+	
+#tablecontent{
+				overflow:auto;
+				height:80%;
+			 }
+	
+#s{
+        text-align:center;
+  }
+
+#new{
+        width:360px;
+		border:3px solid gray;
+    }
+
+#j{
+        margin-left:100px;
+		position:fixed;
+		bottom: 50%;
+  }
+  
+#j1{
+	position:fixed;
+	bottom:15%;
+	left:55%;
+  }
+
+#j2{
+	position:fixed;
+	bottom:15%;
+	left:65%;
+  }
+  
+#helptext{
+			position:fixed;
+			bottom:35%;
+			left:4%;
+		 }
+		 
+#textarea{
+			position:fixed;
+			bottom: 15%;
+			left:5%;
+		 }
+
+#successmsg{
+				position:fixed;
+				bottom:35%;
+				left:5%;
+		   }
+		 
+#copyright{
+			position:fixed;
+			bottom:4%;
+			left: 45%;
+		  }
