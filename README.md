@@ -1,5 +1,5 @@
-educon
-======
+edu-connect
+===========
 
 Edu-Connect
 
