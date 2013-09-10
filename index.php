@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>EDU-CONNECT</title>
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
 	<link href="stylesheets/public.css" media="all" rel="stylesheet" type="text/css" />
 	<!-- <meta HTTP-EQUIV="REFRESH" content="0; url=index.php"> -->
 </head>

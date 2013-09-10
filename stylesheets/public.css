@@ -1,7 +1,7 @@
 body{
-        background-image:url('curvybrickwallbg3.jpg');
+	background: #F9F9F9;
         margin-top:3%;
-        font-family: sans-serif;
+        font-family:  "Roboto";
     }
 
 body.a{
